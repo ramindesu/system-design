@@ -1,0 +1,48 @@
+# Ignore only local runtime files and disposable caches.
+
+# macOS metadata
+.DS_Store
+._*
+
+# Python bytecode and disposable caches
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Re-creatable Python virtual environments
+.venv/
+venv/
+env/
+
+# Local environment values; keep examples/templates
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+
+# Runtime databases for these labs only. Keep migration source.
+# Ignoring these files does not delete existing local data.
+**/lab/study.sqlite3
+**/lab/study.sqlite3-journal
+**/lab/study.sqlite3-wal
+**/lab/study.sqlite3-shm
+**/lab/primary.sqlite3
+**/lab/primary.sqlite3-journal
+**/lab/primary.sqlite3-wal
+**/lab/primary.sqlite3-shm
+**/lab/replica.sqlite3
+**/lab/replica.sqlite3-journal
+**/lab/replica.sqlite3-wal
+**/lab/replica.sqlite3-shm
+
+# Editor temporary files
+*.swp
+*.swo
+*~

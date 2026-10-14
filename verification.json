@@ -1,0 +1,113 @@
+{
+  "2": {
+    "tests": 2,
+    "passed": true,
+    "backend": "SQLite",
+    "demo": "passed on fresh migrated database",
+    "external_services": "not used in default test/demo"
+  },
+  "3": {
+    "tests": 4,
+    "passed": true,
+    "backend": "SQLite",
+    "demo": "passed on fresh migrated database",
+    "external_services": "not used in default test/demo"
+  },
+  "4": {
+    "tests": 2,
+    "passed": true,
+    "backend": "SQLite",
+    "demo": "passed on fresh migrated database",
+    "external_services": "not used in default test/demo"
+  },
+  "5": {
+    "tests": 4,
+    "passed": true,
+    "backend": "SQLite",
+    "demo": "passed on fresh migrated database",
+    "external_services": "not used in default test/demo"
+  },
+  "6": {
+    "tests": 2,
+    "passed": true,
+    "backend": "SQLite",
+    "demo": "passed on fresh migrated database",
+    "external_services": "not used in default test/demo"
+  },
+  "7": {
+    "tests": 3,
+    "passed": true,
+    "backend": "SQLite",
+    "demo": "passed on fresh migrated database",
+    "external_services": "not used in default test/demo"
+  },
+  "8": {
+    "tests": 3,
+    "passed": true,
+    "backend": "SQLite",
+    "demo": "passed on fresh migrated database",
+    "external_services": "not used in default test/demo"
+  },
+  "9": {
+    "tests": 3,
+    "passed": true,
+    "backend": "SQLite",
+    "demo": "passed on fresh migrated database",
+    "external_services": "not used in default test/demo"
+  },
+  "10": {
+    "tests": 3,
+    "passed": true,
+    "backend": "SQLite",
+    "demo": "passed on fresh migrated database",
+    "external_services": "not used in default test/demo"
+  },
+  "11": {
+    "tests": 3,
+    "passed": true,
+    "backend": "SQLite",
+    "demo": "passed on fresh migrated database",
+    "external_services": "not used in default test/demo"
+  },
+  "12": {
+    "tests": 3,
+    "passed": true,
+    "backend": "SQLite",
+    "demo": "passed on fresh migrated database",
+    "external_services": "not used in default test/demo"
+  },
+  "13": {
+    "tests": 3,
+    "passed": true,
+    "backend": "SQLite",
+    "demo": "passed on fresh migrated database",
+    "external_services": "not used in default test/demo"
+  },
+  "14": {
+    "tests": 3,
+    "passed": true,
+    "backend": "SQLite",
+    "demo": "passed on fresh migrated database",
+    "external_services": "not used in default test/demo"
+  },
+  "15": {
+    "tests": 3,
+    "passed": true,
+    "backend": "SQLite",
+    "demo": "passed on fresh migrated database",
+    "external_services": "not used in default test/demo"
+  },
+  "16": {
+    "tests": 3,
+    "passed": true,
+    "backend": "SQLite",
+    "demo": "passed on fresh migrated database",
+    "external_services": "not used in default test/demo"
+  },
+  "1": {
+    "tests": 15,
+    "passed": true,
+    "backend": "two independent SQLite databases",
+    "scope": "previously validated; chapter 1 lab unchanged"
+  }
+}

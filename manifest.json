@@ -1,0 +1,162 @@
+[
+  {
+    "chapter": 1,
+    "title": "فصل ۱ — از یک سرور تا میلیون‌ها کاربر",
+    "note": "فصل ۰۱/01-scale.md",
+    "html": "فصل ۰۱/01-scale-from-zero.html",
+    "lab": "فصل ۰۱/lab",
+    "tests": 15,
+    "status": "ready",
+    "words": 2194
+  },
+  {
+    "chapter": 2,
+    "title": "فصل ۲ — تخمین ظرفیت قبل از طراحی",
+    "note": "فصل ۰۲/02-estimation.md",
+    "html": "فصل ۰۲/02-study.html",
+    "lab": "فصل ۰۲/lab",
+    "tests": 2,
+    "status": "ready",
+    "words": 1114
+  },
+  {
+    "chapter": 3,
+    "title": "فصل ۳ — از نیازمندی تا طراحی قابل اجرا",
+    "note": "فصل ۰۳/03-framework.md",
+    "html": "فصل ۰۳/03-study.html",
+    "lab": "فصل ۰۳/lab",
+    "tests": 4,
+    "status": "ready",
+    "words": 1131
+  },
+  {
+    "chapter": 4,
+    "title": "فصل ۴ — محدود کردن تعداد درخواست‌ها",
+    "note": "فصل ۰۴/04-rate-limiter.md",
+    "html": "فصل ۰۴/04-study.html",
+    "lab": "فصل ۰۴/lab",
+    "tests": 2,
+    "status": "ready",
+    "words": 1247
+  },
+  {
+    "chapter": 5,
+    "title": "فصل ۵ — تقسیم داده با Consistent Hashing",
+    "note": "فصل ۰۵/05-consistent-hashing.md",
+    "html": "فصل ۰۵/05-study.html",
+    "lab": "فصل ۰۵/lab",
+    "tests": 4,
+    "status": "ready",
+    "words": 1056
+  },
+  {
+    "chapter": 6,
+    "title": "فصل ۶ — طراحی Key-Value Store و انتخاب Consistency",
+    "note": "فصل ۰۶/06-key-value.md",
+    "html": "فصل ۰۶/06-study.html",
+    "lab": "فصل ۰۶/lab",
+    "tests": 2,
+    "status": "ready",
+    "words": 1190
+  },
+  {
+    "chapter": 7,
+    "title": "فصل ۷ — تولید شناسهٔ یکتا",
+    "note": "فصل ۰۷/07-identifiers.md",
+    "html": "فصل ۰۷/07-study.html",
+    "lab": "فصل ۰۷/lab",
+    "tests": 3,
+    "status": "ready",
+    "words": 1131
+  },
+  {
+    "chapter": 8,
+    "title": "فصل ۸ — ساخت URL Shortener",
+    "note": "فصل ۰۸/08-shortener.md",
+    "html": "فصل ۰۸/08-study.html",
+    "lab": "فصل ۰۸/lab",
+    "tests": 3,
+    "status": "ready",
+    "words": 1053
+  },
+  {
+    "chapter": 9,
+    "title": "فصل ۹ — Crawler و مدیریت کارهای زیاد",
+    "note": "فصل ۰۹/09-crawler.md",
+    "html": "فصل ۰۹/09-study.html",
+    "lab": "فصل ۰۹/lab",
+    "tests": 3,
+    "status": "ready",
+    "words": 1179
+  },
+  {
+    "chapter": 10,
+    "title": "فصل ۱۰ — اعلان قابل اتکا با Outbox",
+    "note": "فصل ۱۰/10-notifications.md",
+    "html": "فصل ۱۰/10-study.html",
+    "lab": "فصل ۱۰/lab",
+    "tests": 3,
+    "status": "ready",
+    "words": 1161
+  },
+  {
+    "chapter": 11,
+    "title": "فصل ۱۱ — ساخت News Feed",
+    "note": "فصل ۱۱/11-feed.md",
+    "html": "فصل ۱۱/11-study.html",
+    "lab": "فصل ۱۱/lab",
+    "tests": 3,
+    "status": "ready",
+    "words": 1172
+  },
+  {
+    "chapter": 12,
+    "title": "فصل ۱۲ — Chat، ترتیب پیام و اتصال دائم",
+    "note": "فصل ۱۲/12-chat.md",
+    "html": "فصل ۱۲/12-study.html",
+    "lab": "فصل ۱۲/lab",
+    "tests": 3,
+    "status": "ready",
+    "words": 1298
+  },
+  {
+    "chapter": 13,
+    "title": "فصل ۱۳ — Autocomplete سریع و فارسی",
+    "note": "فصل ۱۳/13-autocomplete.md",
+    "html": "فصل ۱۳/13-study.html",
+    "lab": "فصل ۱۳/lab",
+    "tests": 3,
+    "status": "ready",
+    "words": 1085
+  },
+  {
+    "chapter": 14,
+    "title": "فصل ۱۴ — سرویس ویدئو و مسیر Upload تا Playback",
+    "note": "فصل ۱۴/14-video.md",
+    "html": "فصل ۱۴/14-study.html",
+    "lab": "فصل ۱۴/lab",
+    "tests": 3,
+    "status": "ready",
+    "words": 1209
+  },
+  {
+    "chapter": 15,
+    "title": "فصل ۱۵ — File Sync، نسخه و Conflict",
+    "note": "فصل ۱۵/15-drive.md",
+    "html": "فصل ۱۵/15-study.html",
+    "lab": "فصل ۱۵/lab",
+    "tests": 3,
+    "status": "ready",
+    "words": 1233
+  },
+  {
+    "chapter": 16,
+    "title": "فصل ۱۶ — ادامهٔ یادگیری با اندازه‌گیری",
+    "note": "فصل ۱۶/16-next.md",
+    "html": "فصل ۱۶/16-study.html",
+    "lab": "فصل ۱۶/lab",
+    "tests": 3,
+    "status": "ready",
+    "words": 1227
+  }
+]
